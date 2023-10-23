@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lowpoly Treasure Island
+* source:	https://sketchfab.com/3d-models/lowpoly-treasure-island-cc9807e68aa64ef4898bf58cc47cf485
+* author:	Nik_0 (https://sketchfab.com/Nik_0)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lowpoly Treasure Island" (https://sketchfab.com/3d-models/lowpoly-treasure-island-cc9807e68aa64ef4898bf58cc47cf485) by Nik_0 (https://sketchfab.com/Nik_0) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
